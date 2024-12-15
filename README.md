@@ -1,11 +1,5 @@
 # Rem-Bot-MD
 
-with open(readme_path, 'w', encoding='utf-8') as file:
-    file.write(final_readme_content)
-
-final_readme_content
-
-
 <h3 align="center">🤖 WHATSAPP BOT - Versión 1.0</h3>
 
 
