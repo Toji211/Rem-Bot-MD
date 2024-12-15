@@ -7,7 +7,6 @@ final_readme_content = updated_readme_content.replace(
     new_image_path
 )
 
-# Guardar el nuevo contenido en el archivo README.md
 with open(readme_path, 'w', encoding='utf-8') as file:
     file.write(final_readme_content)
 
