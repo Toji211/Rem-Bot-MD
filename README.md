@@ -1,5 +1,4 @@
 
-updated_readme_content = """
 # Rem-Bot-MD
 
 <p align="center">
