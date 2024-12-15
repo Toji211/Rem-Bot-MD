@@ -1,4 +1,4 @@
-# Actualización del contenido del README con mejoras
+
 updated_readme_content = """
 # Rem-Bot-MD
 
@@ -8,7 +8,7 @@ updated_readme_content = """
 
 <h3 align="center">🤖 WHATSAPP BOT - Versión 1.0</h3>
 
-# Ruta de la nueva imagen generada
+
 new_image_path = "https://via.placeholder.com/400x200.png?text=Anime-Inspired-Rem"
 
 ## 📝 Información
