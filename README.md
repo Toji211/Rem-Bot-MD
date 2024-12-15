@@ -1,9 +1,18 @@
-
 # Rem-Bot-MD
 
-<p align="center">
-    <img src="https://via.placeholder.com/400x200.png?text=Rem-Bot-MD" alt="Rem-Bot-MD" style="max-width:100%;">
-</p>
+new_image_path = "https://via.placeholder.com/400x200.png?text=Anime-Inspired-Rem"
+
+final_readme_content = updated_readme_content.replace(
+    "https://via.placeholder.com/400x200.png?text=Rem-Bot-MD",
+    new_image_path
+)
+
+# Guardar el nuevo contenido en el archivo README.md
+with open(readme_path, 'w', encoding='utf-8') as file:
+    file.write(final_readme_content)
+
+final_readme_content
+
 
 <h3 align="center">🤖 WHATSAPP BOT - Versión 1.0</h3>
 
