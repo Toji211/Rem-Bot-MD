@@ -2,7 +2,7 @@
 
 <h3 align="center">🤖 WHATSAPP BOT - Versión 1.0</h3>
 <p align="center">
-    <img src="https://es.wallpaper.mob.org/gallery/tag=rem%20(re:%20cero)/"alt="Imagen de Rem-Bot-MD" width="400" height="350">
+    <img src="es.wallpaper.mob.org/gallery/tag=rem%20(re:%20cero)/"alt="Imagen de Rem-Bot-MD" width="400" height="350">
 </p>
 
 ## 📝 Información
