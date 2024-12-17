@@ -2,7 +2,7 @@
 
 <h3 align="center">🤖 WHATSAPP BOT - Versión 1.0</h3>
 <p align="center">
-    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUdWeBccT2K8v5o1vT3N-b6S02tPV0gq7NVg&s"alt="Imagen de Rem-Bot-MD" width="400" height="350">
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTESmRtGU1pk3rlt6qrwTh1mwYwc06FTJKz7w&usqp=CAU"alt="Imagen de Rem-Bot-MD" width="400" height="350">
 </p>
 
 ## 📝 Información
