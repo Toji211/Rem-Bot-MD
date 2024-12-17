@@ -16,27 +16,15 @@ Está desarrollado en Node.js y puede ejecutarse tanto en Termux como en un serv
 
 ---
 
-## 🚀 Instalación
+# Rem-Bot-MD
 
-### Requisitos previos
-Antes de comenzar, asegúrate de tener instalados los siguientes paquetes:
-- **Git**
-- **Node.js** (última versión recomendada)
-- **FFmpeg**
-- **ImageMagick**
+Un bot de WhatsApp que se ejecuta en Termux.
 
-### Pasos para instalar
-Ejecuta los siguientes comandos en Termux o tu terminal preferida:
+## Instalación
+
+1. Instala [Termux](https://play.google.com/store/apps/details?id=com.termux) en tu dispositivo Android.
+2. Clona este repositorio o descarga el código.
+3. Navega al directorio del proyecto y ejecuta:
 
 ```bash
-pkg upgrade -y && pkg update -y
-pkg install git -y
-pkg install nodejs -y
-pkg install ffmpeg -y
-pkg install imagemagick -y
-git clone https://github.com/Toji211/Rem-Bot-MD
-cd Rem-Bot-MD
-npm i
-npm start
-
-
+npm install
