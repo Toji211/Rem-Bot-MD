@@ -1,5 +1,13 @@
-auth/
+# Ignorar claves sensibles
+src/whatsapp.js
+
+# Ignorar dependencias
 node_modules/
-package-lock.json
-creds.json
-session.json
+
+# Ignorar archivos del sistema
+.env
+.DS_Store
+Thumbs.db
+
+# Ignorar logs
+*.log
