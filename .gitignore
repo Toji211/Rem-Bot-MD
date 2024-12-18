@@ -1,6 +1,7 @@
 # Ignorar claves sensibles
 src/whatsapp.js
-
+.baileys/
+session/
 # Ignorar dependencias
 node_modules/
 
