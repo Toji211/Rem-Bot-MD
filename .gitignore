@@ -2,9 +2,9 @@
 src/whatsapp.js
 .baileys/
 session/
+auth/
 # Ignorar dependencias
 node_modules/
-auth/
 # Ignorar archivos del sistema
 .env
 .DS_Store
