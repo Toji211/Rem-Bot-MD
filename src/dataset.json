@@ -1,5 +1,0 @@
-[
-  { "entrada": "hola", "respuesta": "¡Hola! ¿Cómo estás?" },
-  { "entrada": "¿qué puedes hacer?", "respuesta": "Puedo ayudarte con preguntas y respuestas." },
-  { "entrada": "cuánto es 2+2", "respuesta": "2+2 es 4." }
-]
