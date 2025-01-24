@@ -4,7 +4,7 @@ src/whatsapp.js
 session/
 # Ignorar dependencias
 node_modules/
-
+auth/
 # Ignorar archivos del sistema
 .env
 .DS_Store
